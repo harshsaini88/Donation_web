@@ -22,6 +22,7 @@ body{
 }
 .heading p{
     font-size: 18px;
+    padding-bottom: 20px;
 }
 .heading p span{
     font-weight: 600;
@@ -134,7 +135,7 @@ nav{
 
 /* About section */
 .about-sec{
-    padding: 50px 0;
+    padding: 60px ;
     /* background-color: #3c4764; */
 }
 
@@ -150,13 +151,13 @@ nav{
 }
 
 /* Donation Section */
-.don-sec{
+/* .don-sec{
     background-color: #e6edff;
     padding: 150px 0;
-}
+} */
 
 .don-sec .don-box{
-    margin: 50px 0;
+    margin: 50px 70px;
     background-color: #fff;
     padding: 50px;
     text-align: center;
@@ -257,6 +258,10 @@ nav{
 .contact-section {
     padding: 50px 
 }
+.form-control{
+    padding: 10px;
+}
+
 
 .contact-section .contact-form .form-group {
     margin-bottom: 20px;
@@ -341,7 +346,7 @@ footer .social a img{
     padding: 0px 5px;
     border: none;
     outline: none;
-    border: 1px solid rgb(206, 212, 218);
+    /* border: 1px solid rgb(206, 212, 218); */
     border-radius: 5px;
     color: rgb(73, 80, 87);
     font-weight: 400;
