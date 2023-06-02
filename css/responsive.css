@@ -2,7 +2,7 @@
     .home-sec .home-content {
         padding: 70px 0;
     }
-    .cont-sec p,
+
     .cont-sec .social {
         text-align: center;
     }
@@ -21,7 +21,7 @@
     }
     .contact-form textarea.form-control {
         width: 96%;
-        margin-left: 15px;
+        /* margin-left: 15px; */
     }
     .gallery-sec .pop-image img {
         top: 60%;
